@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,9 +11,10 @@
 
 
 </head>
+
 <body>
-    
-<canvas id="myCanvas"></canvas>
+
+    <canvas id="myCanvas"></canvas>
     <script type="text/javascript" src="assets/js/creeper.js"></script>
     <script type="text/javascript" src="assets/js/perso.js"></script>
     <script type="text/javascript" src="assets/js/soleil.js"></script>
@@ -21,4 +23,5 @@
     <script type="text/javascript" src="assets/js/main.js"></script>
     <script src="https://kit.fontawesome.com/8d9e697281.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
